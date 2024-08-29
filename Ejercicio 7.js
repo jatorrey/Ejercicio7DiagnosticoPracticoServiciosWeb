@@ -4,6 +4,6 @@ function concatenarArreglos(arreglo1, arreglo2) {
     return arreglo1.concat(arreglo2);
 }
 
-const arreglo1 = ["Hola", "Mundo"];
-const arreglo2 = ["!", "¿Cómo", "estás?"];
+const arreglo1 = ["Hola a todos", " mis amigos"];
+const arreglo2 = ["!", "¿Como", " estan?"];
 console.log("Arreglo concatenado:", concatenarArreglos(arreglo1, arreglo2));
